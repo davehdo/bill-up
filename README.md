@@ -5,12 +5,13 @@ BillUp is a calculator for doctors and advance practitioners to determine comple
 
 BillUp is available from the App Store for iPhone.
 
-![Icon](https://davehdo.github.com/bill-up/bill-up-icon-rev-2017-06_1024px.png)
+![Icon](https://davehdo.github.com/bill-up/bill-up-icon-rev-2017-06_1024px.png  =250)
 
 
 # Screenshots
-![Screenshot 1](https://davehdo.github.com/bill-up/Screenshot 2017-06-29 18.09.52.png.png)
-![Screenshot 2](https://davehdo.github.com/bill-up/Screenshot 2017-06-29 18.46.20.png)
+![Screenshot1](https://davehdo.github.com/bill-up/Screenshot 2017-06-29 18.09.52.png =250)
+
+![Screenshot2](https://davehdo.github.com/bill-up/Screenshot 2017-06-29 18.46.20.png =250)
 
 
 # Frequently Asked Questions
