@@ -1,11 +1,16 @@
 # Introduction
+[View this in GitHub Pages](https://davehdo.github.io/bill-up/)
+
 BillUp is a calculator for doctors and advance practitioners to determine complexity of medical decision making, and thereby level of service, for each patient encounter. This can be used to ensure robust documentation in the patient chart, allowing you to confidently bill at the appropriate level.
 
 BillUp is available from the App Store for iPhone.
 
+![Icon](https://davehdo.github.com/bill-up/bill-up-icon-rev-2017-06_1024px.png)
+
 
 # Screenshots
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+![Screenshot 1](https://davehdo.github.com/bill-up/Screenshot 2017-06-29 18.09.52.png.png)
+![Screenshot 2](https://davehdo.github.com/bill-up/Screenshot 2017-06-29 18.46.20.png)
 
 
 # Frequently Asked Questions
