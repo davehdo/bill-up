@@ -70,11 +70,11 @@ Bill Up may change this Privacy Policy from time to time. Laws, regulations and 
 ## Data Protection Officer
 To communicate with our Data Protection Officer,  please contact us via our feedback submission form: https://davehdo.github.io/bill-up/
 
-# Identifying The Data Controller And Processor
+## Identifying The Data Controller And Processor
 Data protection law in certain jurisdictions differentiates between the “controller” and “processor” of information. In general, Customer is the controller of Customer Data. In general, Bill Up is the processor of Customer Data and the controller of Other Information. Different Bill Up entities provide the Services in different parts of the world. Bill Up Technologies Limited, an Irish company based in Dublin, Ireland, is the controller of Other Information and a processor of Customer Data relating to Authorized Users who use Workspaces established for Customers outside of the U.S. and Canada. Bill Up Technologies, Inc., a US company based in San Francisco, California is the controller of Other Information and a processor of Customer Data relating to Authorized Users who use Workspaces established for Customers in the US and Canada.
 
 ## Your Rights
-Individuals located in certain countries have certain statutory rights in relation to their personal data. Subject to any exemptions provided by law, you may have the right to request access to Information, as well as to seek to update, delete or correct this Information. please contact us via our feedback submission form (https://davehdo.github.io/bill-up/) for additional access and assistance.
+Individuals located in certain countries have certain statutory rights in relation to their personal data. Subject to any exemptions provided by law, you may have the right to request access to Information, as well as to seek to update, delete or correct this Information. Please contact us via our feedback submission form (https://davehdo.github.io/bill-up/) for additional access and assistance.
 To the extent that Bill Up’s processing of your Personal Data is subject to the General Data Protection Regulation, Bill Up relies on its legitimate interests, described above, to process your data. Bill Up may also process Other Information that constitutes your Personal Data for direct marketing purposes and you have a right to object to Bill Up’s use of your Personal Data for this purpose at any time.
 
 ## Data Protection Authority
